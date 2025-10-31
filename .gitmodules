@@ -1,0 +1,6 @@
+[submodule "HAII-project-frontend"]
+	path = HAII-project-frontend
+	url = git@github.com:hyn0027/HAII-project-frontend.git
+[submodule "HAII-project-backend"]
+	path = HAII-project-backend
+	url = git@github.com:hyn0027/HAII-project-backend.git
