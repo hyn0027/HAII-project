@@ -32,12 +32,12 @@ npm run start
 
 ## Use of External Code
 
-No external code was reused beyond standard open-source dependencies.
+No external code was reused beyond standard open-source dependencies:
 
 - Backend dependencies: <https://github.com/hyn0027/HAII-project-backend/blob/fcdbc58cd7a752e62f444b353067e87f36b7c323/requirements.txt>
 - Frontend dependencies: <https://github.com/hyn0027/HAII-project-frontend/blob/bf792157d9edc9879d157d75b182685f0d3ef2eb/frontend/package.json>
 
-Overview:
+Codes in the repo are implemented with the following frameworks:
 
 - Backend: Django-based REST API built in Python, integrating the OpenAI Chat Completions API.
 - Frontend: Next.js with React and TypeScript. UI components and styling use Mantine, Tailwind CSS, and Lucide icons.
