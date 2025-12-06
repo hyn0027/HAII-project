@@ -34,8 +34,8 @@ npm run start
 
 No external code was reused beyond standard open-source dependencies.
 
-- Backend dependencies: <https://github.com/hyn0027/HAII-project-backend/blob/fcdbc58cd7a752e62f444b353067e87f36b7c323/requirements.txt￼>
-- Frontend dependencies: <https://github.com/hyn0027/HAII-project-frontend/blob/bf792157d9edc9879d157d75b182685f0d3ef2eb/frontend/package.json￼>
+- Backend dependencies: <https://github.com/hyn0027/HAII-project-backend/blob/fcdbc58cd7a752e62f444b353067e87f36b7c323/requirements.txt>
+- Frontend dependencies: <https://github.com/hyn0027/HAII-project-frontend/blob/bf792157d9edc9879d157d75b182685f0d3ef2eb/frontend/package.json>
 
 Overview:
 
